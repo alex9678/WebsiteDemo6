@@ -1,0 +1,8 @@
+pages\BasePage.class
+pages\ProductsPage.class
+pages\LoginPage.class
+utils\Utils.class
+pages\AppBasePage.class
+tests\ProductsTest.class
+tests\BaseTest.class
+tests\LoginTest.class
